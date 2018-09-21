@@ -1,5 +1,5 @@
 ---
-title: Elements
+title: Szülőknek
 nav-menu: true
 layout: page
 ---
@@ -15,17 +15,21 @@ layout: page
 		</header>
 
 <!-- Content -->
-<h2 id="content">Sample Content</h2>
+<h2 id="content">Mi a Cloud4est?</h2>
 <p>A Cloud4est egy közösség, melynek tagjai önfejlesztés, egyéni és csoportos tanulás révén mélyednek el a 21. századi kommunikációs rendszerek és az információ technológia világában. A munkaerőpiacon napjainkban olyan fiatalokat keresnek, akik az informatika valamelyik területén már mély ismeretekkel rendelkeznek, és képesek ezeket az ismerteteket egy komplex fejlesztési projekt keretei között alkalmazni is. A Cloud4est azért jött létre, hogy ezeket az ismereteket minél hatékonyabban lehessen elsajátítani, anélkül, hogy ehhez valamelyik szakképzési programba be kellene kapcsolódnia a résztvevőknek.  
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Sem turpis amet semper</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat commodo eu sed ante lacinia. Sapien a lorem in integer ornare praesent commodo adipiscing arcu in massa commodo lorem accumsan at odio massa ac ac. Semper adipiscing varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Miért jó a közösségi tanulás?</h3>
+		<p>Hagyományos keretek között az információ áramlását és a tanulásszervezést kívülről irányítjuk. Ez a diákokat passzivitásra készteti, hiszen a folyamatok nélküle vagy akár akarata ellenére is zajlanak. Sokan, ha valamilyen területen szeretnének elmélyülni, az egyéni tanulást választják (egyedül vagy magántanár segítségével). Tudjuk azonban mindannyian, hogy ha a környezetünkben többen is hasonló tevékenységgel foglalkoznak, akkor sokat segíthetnek egymásnak azzal, hogy ismereteket cserélnek, azokat közösen dolgozzák fel, próbálják ki. 
+Egy csoport tagjai sokféle készséggel, ismerettel rendelkeznek. Ezek részben az eddigi tanulmányokból, részben pedig személyes kísérletezésből származnak. A közösségi tanulás révén ezek az ismeretek összekapcsolódhatnak, és további tanulásra, új megoldások kidolgozására serkenthetik a csoport tagjait.  
+
+A közösségi tanulás segít abban is, hogy a csökkentse az egyénre nehezedő nyomást, mely a hirtelen és gyors sikerekkel kapcsolatos várakozásból ered.  Annak ellenére, hogy az adott probléma megoldásához fontos, hogy a csoport tagjai minél hatékonyabban alkalmazzák az általuk birtokolt ismereteket, mindenki sajátos utat járhat be egy-egy általa választott területen. 
+</p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Magna odio tempus commodo</h3>
-		<p>In arcu accumsan arcu adipiscing accumsan orci ac. Felis id enim aliquet. Accumsan ac integer lobortis commodo ornare aliquet accumsan erat tempus amet porttitor. Ante commodo blandit adipiscing integer semper orci eget. Faucibus commodo adipiscing mi eu nullam accumsan morbi arcu ornare odio mi adipiscing nascetur lacus ac interdum morbi accumsan vis mi accumsan ac praesent.</p>
+		<h3>Nem formális tanulás</h3>
+		<p>A Cloud4est egy olyan közösség, melynek tagjai szeretnék használatba venni azt az időt, amely középiskolás korban bár rendszertelenül, de mégis nagy mennyiségben áll rendelkezésre. Ez az életszakasz az, amikor még a szülők biztosítanak kényelmes életkörülményeket a fiatalok számára, így nem kell mindenáron munkát keresni, és a rendelkezésre áll időt és energiát gyorsan árúba bocsátani. A mai középiskolások rengeteg hasznos, hasznosítható tevékenységet folytatnak, akkor is, ha például épp nem tanulnak vagy sportolnak formális keretek között. Az általuk kedvelt területeken gyorsan tanulnak, és válnak egyre hatékonyabb felhasználóvá, majd koordinátorrá, fejlesztővé. Sokan ilyen aktivitások közben, indirekt módon tanulnak meg angolul, vagy válnak ügyes programozóvá.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
