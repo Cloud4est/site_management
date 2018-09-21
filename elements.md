@@ -16,7 +16,8 @@ layout: page
 
 <!-- Content -->
 <h2 id="content">Sample Content</h2>
-<p>A Cloud4est egy közösség, melynek tagjai önfejlesztés, egyéni és csoportos tanulás révén mélyednek el a 21. századi kommunikációs rendszerek és az információ technológia világában. A munkaerőpiacon napjainkban olyan fiatalokat keresnek, akik az informatika valamelyik területén már mély ismeretekkel rendelkeznek, és képesek ezeket az ismerteteket egy komplex fejlesztési projekt keretei között alkalmazni is. A Cloud4est azért jött létre, hogy ezeket az ismereteket minél hatékonyabban lehessen elsajátítani, anélkül, hogy ehhez valamelyik szakképzési programba be kellene kapcsolódnia a résztvevőknek.  </p>
+<p>A Cloud4est egy közösség, melynek tagjai önfejlesztés, egyéni és csoportos tanulás révén mélyednek el a 21. századi kommunikációs rendszerek és az információ technológia világában. A munkaerőpiacon napjainkban olyan fiatalokat keresnek, akik az informatika valamelyik területén már mély ismeretekkel rendelkeznek, és képesek ezeket az ismerteteket egy komplex fejlesztési projekt keretei között alkalmazni is. A Cloud4est azért jött létre, hogy ezeket az ismereteket minél hatékonyabban lehessen elsajátítani, anélkül, hogy ehhez valamelyik szakképzési programba be kellene kapcsolódnia a résztvevőknek.  
+</p>
 <div class="row">
 	<div class="6u 12u$(small)">
 		<h3>Sem turpis amet semper</h3>
