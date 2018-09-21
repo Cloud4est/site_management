@@ -1,10 +1,10 @@
 ---
-title: Landing
-layout: landing
+title: Hogyan működünk?
 description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus
   adipiscing nulla.
 image: assets/images/pic07.jpg
 nav-menu: true
+layout: landing
 ---
 
 <!-- Main -->
@@ -14,9 +14,9 @@ nav-menu: true
 <section id="one">
 	<div class="inner">
 		<header class="major">
-			<h2>Sed amet aliquam</h2>
+			<h2>Közösségi lét</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna.</p>
+		<p>A **Cloud4est** egyrészt személyes találkozásokon, másrészt online térben zajló tanulási, fejlesztési tevékenységeken keresztül kapcsolja össze a hozzá csatlakozó fiatalokat. Bárki tagja lehet a közösségnek, ha szeretne részt venni a tevékenységeinkben. Annyit várunk csak a közösség tagjaitól, hogy fogadják el egymást, és legyenek hajlandók csoportban dolgozva tanulni és alkotni. </p>
 	</div>
 </section>
 
@@ -29,9 +29,9 @@ nav-menu: true
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>Orci maecenas</h3>
+					<h3>Közös tanulás</h3>
 				</header>
-				<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis magna sed nunc rhoncus condimentum sem. In efficitur ligula tate urna. Maecenas massa sed magna lacinia magna pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis tempus.</p>
+				<p>Fontosnak tartjuk, hogy a közösség tagjai folyamatosan továbbképezzék magukat. Ennek tárgya lehet egy-egy technikai kérdés megoldásának keresése, új kódolási rendszer  megismerése, vagy az arculat tervezéshez felhasználható szoftverek alkalmazása. A tanulási folyamatot rendkívül felgyorsíthatja, ha a résztvevők által megszerzett ismeretelemek összekapcsolódnak, és egy konkrét kérdés, probléma megoldásában segítséget jelentenek. Ez a problémaközpontú megközelítés lehetővé teszi, hogy célirányosan és tudatosan szűrjék a rendelkezésre álló információt, és elgondolkodjanak az ismeretek konkrét hasznosításának kérdésén. Úgy gondoljuk, hogy a tudás csak adott összefüggésben és alkalmazásának módjával együtt hasznosítható.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
