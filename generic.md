@@ -1,7 +1,8 @@
 ---
 title: Generic
-description: Lorem ipsum dolor est
-image: assets/images/pic11.jpg
+description: 'A közösség olyan emberek csoportja, akik egyetértenek abban, hogy közösen
+  fognak növekedni. >Simon Sinek> '
+image: "/uploads/CommunityHero.png"
 nav-menu: true
 layout: post
 ---
