@@ -1,13 +1,13 @@
 ---
 title: Generic
-layout: post
 description: Lorem ipsum dolor est
 image: assets/images/pic11.jpg
 nav-menu: true
+layout: post
 ---
 
-Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada et a elit. Donec urna ex, lacinia in purus ac, pretium pulvinar mauris. Curabitur sapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit.
+A **Cloud4est** egy olyan innovációs közösség, melyet középiskolás fiatalok alkotnak. A **Cloud4est** arra a felismerésre alapul, hogy egy-egy konkrét projektre szerveződő csoportok, teamek sokszor nagyon zártak és a projekt végén általában felbomlanak, ezért egy hosszú távú, akár évtizedekig tartó együttműködésre épül.
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Duis dapibus rutrum facilisis. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Etiam tristique libero eu nibh porttitor fermentum. Nullam venenatis erat id vehicula viverra. Nunc ultrices eros ut ultricies condimentum. Mauris risus lacus, blandit sit amet venenatis non, bibendum vitae dolor. Nunc lorem mauris, fringilla in aliquam at, euismod in lectus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. In non lorem sit amet elit placerat maximus. Pellentesque aliquam maximus risus, vel sed vehicula.
+A közösség azért jött létre, mert a középiskolás és egyetemi évek során a fiatalok, bár sok mindenbe belefognak, sem tanulási, sem fejlesztői tevékenységük sokszor parttalanná válik. Ugyanakkor e magányos hősök sokszor nehezen találnak olyan partnereket, akikkel igazán együtt tudnak működni, akikkel valódi alkotói/ tanulási közösséget alkothatnak. A **Cloud4est** arra nyújt lehetőséget, hogy az energiák becsatornázódjanak, és a rendelkezésre álló időket valóban hasznosítható tanulási vagy alkotói folyamatokká lehessen alakítani. 
 
-Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet. Pellentesque leo mauris, consectetur id ipsum sit amet, fersapien risus, commodo eget turpis at, elementum convallis elit. Pellentesque enim turpis, hendrerit tristique lorem ipsum dolor.
+A **Cloud4est** olyan közösségi brand-é kíván válni a jövőben, melynek segítségével fiatalok új generációi válhat ismertté a gazdaság legkülönbözőbb területein. E brand építés egyrészt a Cloud4est közösségét, másrészt a közösség tagjainak személyes brandjeit erősíti, és hosszú távon egymáshoz lazán kapcsolódó márkák, startupok, hagyományos vállalkozások, expert teamek kialakulásához vezet.    
