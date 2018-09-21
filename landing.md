@@ -63,7 +63,7 @@ layout: landing
 				<header class="major">
 					<h3>Organikus alkotás</h3>
 				</header>
-				<p>A Cloud4est elnevezés arra utal, hogy ötleteink, elképzeléseink, és tudásunk képes összekapcsolódni egy közös felhőben, miközben a csoport egy organikus alkotási és növekedési folyamaton megy át. Miért fontos az alkotás közössége? Amikor konkrét termékben, szolgáltatásban vagy egyszerűen csak alkotásban gondolkodunk, akkor emögött sokszor az alkotót, annak egyediségét keressük. A közösségi alkotás sokféle szereplő keze nyomát viseli. Mindenki, aki összekapcsolódott a folyamattal, bele tehette azt, amit ott és akkor tudott. A közös alkotás eredménye az övék, a miénk. nevünk, személyes profilunk össze fog kapcsolódni vele, erősítve ezzel a közös brandet, és a sajátunkat is.    </p>
+				<p>A Cloud4est elnevezés arra utal, hogy ötleteink, elképzeléseink, és tudásunk képes összekapcsolódni egy közös felhőben, miközben a csoport egy organikus alkotási és növekedési folyamaton megy át. Miért fontos az alkotás közössége? Amikor konkrét termékben, szolgáltatásban vagy egyszerűen csak alkotásban gondolkodunk, akkor emögött sokszor az alkotót, annak egyediségét keressük. A közösségi alkotás sokféle szereplő keze nyomát viseli. Mindenki, aki összekapcsolódott a folyamattal, bele tehette azt, amit ott és akkor tudott. A közös alkotás eredménye az övék, a miénk. Nevünk, személyes profilunk össze fog kapcsolódni vele, erősítve ezzel a közös brandet, és a sajátunkat is.    </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
