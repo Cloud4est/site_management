@@ -16,7 +16,7 @@ layout: landing
 		<header class="major">
 			<h2>Közösségi lét</h2>
 		</header>
-		<p>A **Cloud4est** egyrészt személyes találkozásokon, másrészt online térben zajló tanulási, fejlesztési tevékenységeken keresztül kapcsolja össze a hozzá csatlakozó fiatalokat. Bárki tagja lehet a közösségnek, ha szeretne részt venni a tevékenységeinkben. Annyit várunk csak a közösség tagjaitól, hogy fogadják el egymást, és legyenek hajlandók csoportban dolgozva tanulni és alkotni. </p>
+		<p>A ****Cloud4est egyrészt személyes találkozásokon, másrészt online térben zajló tanulási, fejlesztési tevékenységeken keresztül kapcsolja össze a hozzá csatlakozó fiatalokat. Bárki tagja lehet a közösségnek, ha szeretne részt venni a tevékenységeinkben. Annyit várunk csak a közösség tagjaitól, hogy fogadják el egymást, és legyenek hajlandók csoportban dolgozva tanulni és alkotni. </p>
 	</div>
 </section>
 
