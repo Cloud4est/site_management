@@ -47,7 +47,7 @@ layout: landing
 				<header class="major">
 					<h3>IT adta lehetőségek</h3>
 				</header>
-				<p>A **Clod4est** projektjei alapvetően informatikai eszközök fejlesztésére és hasznosítására épülnek.  </p>
+				<p>A **Cloud4est** projektjei alapvetően informatikai eszközök fejlesztésére és hasznosítására épülnek.  </p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
