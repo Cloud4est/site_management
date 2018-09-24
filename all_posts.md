@@ -9,4 +9,4 @@ show_tile: false
 layout: allposts
 ---
 
-<h1>All posts</h1>
+<h1>Projektek</h1>
