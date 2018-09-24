@@ -26,8 +26,10 @@ Amennyiben úgy érzik, hogy szívesen kapcsolódnának a közösség valamilyen
 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
-		<h3>Nem formális tanulás</h3>
-		<p>A Cloud4est egy olyan közösség, melynek tagjai szeretnék használatba venni azt az időt, amely középiskolás korban bár rendszertelenül, de mégis nagy mennyiségben áll rendelkezésre. Ez az életszakasz az, amikor még a szülők biztosítanak kényelmes életkörülményeket a fiatalok számára, így nem kell mindenáron munkát keresni, és a rendelkezésre áll időt és energiát gyorsan árúba bocsátani. A mai középiskolások rengeteg hasznos, hasznosítható tevékenységet folytatnak általuk választott területeken gyorsan tanulnak, és válnak egyre hatékonyabb felhasználóvá, majd koordinátorrá, fejlesztővé. Sokan ilyen aktivitások közben, indirekt módon tanulnak meg angolul, vagy válnak ügyes programozóvá.</p>
+		<h3>Mit ad a Cloud4est? </h3>
+		<p>Első megközelítésben olyan innovációs, impulzusokban gazdag közeget, amely új ismeretek megszerzésére és alkalmazására serkent. A közös munka és tanulás során olyan ismeretek, készségek elsajátítására van lehetőség, amelyek révén az információs technológia legfrissebb területei nyílnak meg a fiatalok számára. Ezek az ismeretek ma a munkaerőpiacon igen keresettek és nagy értéket jelentenek. 
+A cloud4est keretei között futó projektek a megszerzett ismeretek alkalmazását teszik lehetővé. A projektekben valós termékek, és szolgáltatások fejlesztésére teszünk kísérletet, melyekhez a cloud4estet támogató cégek, szakemberek segítsége is rendelkezésünkre áll. 
+</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
@@ -39,8 +41,8 @@ A közösségi tanulás segít abban is, hogy a csökkentse az egyénre nehezed�
 </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Faucibus consequat lorem</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>A nem formális tanulás előnyei</h3>
+		<p>Tanulásnak elsősorban egy kívülről szabályozott, minden mozzanatában előre felépített, tankönyvekre támaszkodó ismeretszerzést szoktunk nevezni. A Cloud4est-ben erről másképp gondolkodunk. Számunkra a tanulás önfejlesztést jelent. Megoldást keresünk konkrét problémákra, és közben megkeressük és elsajátítjuk az ehhez szükséges ismereteket. Mivel a szükséges ismeretek </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Accumsan montes viverra</h3>
