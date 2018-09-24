@@ -78,7 +78,7 @@ layout: landing
 		<header class="major">
 			<h2>Management</h2>
 		</header>
-		<p>A **Cloud4est**-et Kutsera Róbert tehetségfejlesztő a Pécsi Janus Pannonius Gimnázium egykori tanára vezeti, mentorálja. A csoport működéséhez szükséges infrastruktúrát a Humán Innovációs Csoport Nonprofit Kft. és a Kreatív Ipari Klaszter biztosítja. </p>
+		<p>A Cloud4est-et Kutsera Róbert (Pécsi Janus Pannonius Gimnázium 2000-2018) tehetségfejlesztő tanár vezeti, mentorálja. A csoport működéséhez szükséges infrastruktúrát a Humán Innovációs Csoport Nonprofit Kft. és a Kreatív Ipari Klaszter biztosítja. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
