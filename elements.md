@@ -20,21 +20,23 @@ layout: page
 </p>
 <div class="row">
 	<div class="6u 12u$(small)">
-		<h3>Miért jó a közösségi tanulás?</h3>
-		<p>Hagyományos keretek között az információ áramlását és a tanulásszervezést kívülről irányítjuk. Ez a diákokat passzivitásra készteti, hiszen a folyamatok nélküle vagy akár akarata ellenére is zajlanak. Sokan, ha valamilyen területen szeretnének elmélyülni, az egyéni tanulást választják (egyedül vagy magántanár segítségével). Tudjuk azonban mindannyian, hogy ha a környezetünkben többen is hasonló tevékenységgel foglalkoznak, akkor sokat segíthetnek egymásnak azzal, hogy ismereteket cserélnek, azokat közösen dolgozzák fel, próbálják ki. 
-Egy csoport tagjai sokféle készséggel, ismerettel rendelkeznek. Ezek részben az eddigi tanulmányokból, részben pedig személyes kísérletezésből származnak. A közösségi tanulás révén ezek az ismeretek összekapcsolódhatnak, és további tanulásra, új megoldások kidolgozására serkenthetik a csoport tagjait.  
-
-A közösségi tanulás segít abban is, hogy a csökkentse az egyénre nehezedő nyomást, mely a hirtelen és gyors sikerekkel kapcsolatos várakozásból ered.  Annak ellenére, hogy az adott probléma megoldásához fontos, hogy a csoport tagjai minél hatékonyabban alkalmazzák az általuk birtokolt ismereteket, mindenki sajátos utat járhat be egy-egy általa választott területen. 
+		<h3>Mit kérünk a szülőktől?</h3>
+		<p> Arra kérjük Önöket, hogy adjanak teret a kibontakozó tanulási folyamatoknak és projektmunkának gyermekük életében. Azt szeretnénk, ha a családi élet eseményei, és az iskolai tevékenységek egyensúlyba kerülnének az önfejlesztéssel. Mivel a közösséghez és annak tevékenységeihez szabadon, önkéntesen csatlakozhatnak fiatalok, fontos, hogy ez irányú döntéseiket a szüleik megértsék, és tiszteletben tartsák. A közösség online felületein folyamatosan nyomon követhető lesz tevékenységünk, így a fiatalok tevékenysége látható, átlátható lesz szüleik számára is. 
+Amennyiben úgy érzik, hogy szívesen kapcsolódnának a közösség valamilyen tevékenységéhez, vagy tudásukat, kapcsolataikat szeretnék megosztani velünk, örömmel állunk rendelkezésükre. Azt reméljük, a jövőben sok ilyen együttműködésre nyílik majd lehetőségünk.
 </p>
 	</div>
 	<div class="6u$ 12u$(small)">
 		<h3>Nem formális tanulás</h3>
-		<p>A Cloud4est egy olyan közösség, melynek tagjai szeretnék használatba venni azt az időt, amely középiskolás korban bár rendszertelenül, de mégis nagy mennyiségben áll rendelkezésre. Ez az életszakasz az, amikor még a szülők biztosítanak kényelmes életkörülményeket a fiatalok számára, így nem kell mindenáron munkát keresni, és a rendelkezésre áll időt és energiát gyorsan árúba bocsátani. A mai középiskolások rengeteg hasznos, hasznosítható tevékenységet folytatnak, akkor is, ha például épp nem tanulnak vagy sportolnak formális keretek között. Az általuk kedvelt területeken gyorsan tanulnak, és válnak egyre hatékonyabb felhasználóvá, majd koordinátorrá, fejlesztővé. Sokan ilyen aktivitások közben, indirekt módon tanulnak meg angolul, vagy válnak ügyes programozóvá.</p>
+		<p>A Cloud4est egy olyan közösség, melynek tagjai szeretnék használatba venni azt az időt, amely középiskolás korban bár rendszertelenül, de mégis nagy mennyiségben áll rendelkezésre. Ez az életszakasz az, amikor még a szülők biztosítanak kényelmes életkörülményeket a fiatalok számára, így nem kell mindenáron munkát keresni, és a rendelkezésre áll időt és energiát gyorsan árúba bocsátani. A mai középiskolások rengeteg hasznos, hasznosítható tevékenységet folytatnak általuk választott területeken gyorsan tanulnak, és válnak egyre hatékonyabb felhasználóvá, majd koordinátorrá, fejlesztővé. Sokan ilyen aktivitások közben, indirekt módon tanulnak meg angolul, vagy válnak ügyes programozóvá.</p>
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Interdum sapien gravida</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Miért jó a közösségi tanulás?</h3>
+		<p>Hagyományos keretek között az információ áramlását és a tanulásszervezést kívülről irányítjuk. Ez a diákokat passzivitásra készteti, hiszen a folyamatok nélküle vagy akár akarata ellenére is zajlanak. Sokan, ha valamilyen területen szeretnének elmélyülni, az egyéni tanulást választják (egyedül vagy magántanár segítségével). Tudjuk azonban mindannyian, hogy ha a környezetünkben többen is hasonló tevékenységgel foglalkoznak, akkor sokat segíthetnek egymásnak azzal, hogy ismereteket cserélnek, azokat közösen dolgozzák fel, próbálják ki. 
+Egy csoport tagjai sokféle készséggel, ismerettel rendelkeznek. Ezek részben az eddigi tanulmányokból, részben pedig személyes kísérletezésből származnak. A közösségi tanulás révén ezek az ismeretek összekapcsolódhatnak, és további tanulásra, új megoldások kidolgozására serkenthetik a csoport tagjait.  
+
+A közösségi tanulás segít abban is, hogy a csökkentse az egyénre nehezedő nyomást, mely a hirtelen és gyors sikerekkel kapcsolatos várakozásból ered.  Annak ellenére, hogy az adott probléma megoldásához fontos, hogy a csoport tagjai minél hatékonyabban alkalmazzák az általuk birtokolt ismereteket, mindenki sajátos utat járhat be egy-egy általa választott területen.
+</p>
 	</div>
 	<div class="4u 12u$(medium)">
 		<h3>Faucibus consequat lorem</h3>
