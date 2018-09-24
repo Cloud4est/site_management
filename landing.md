@@ -76,9 +76,9 @@ layout: landing
 <section id="three">
 	<div class="inner">
 		<header class="major">
-			<h2>Massa libero</h2>
+			<h2>Management</h2>
 		</header>
-		<p>Nullam et orci eu lorem consequat tincidunt vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus pharetra. Pellentesque condimentum sem. In efficitur ligula tate urna. Maecenas laoreet massa vel lacinia pellentesque lorem ipsum dolor. Nullam et orci eu lorem consequat tincidunt. Vivamus et sagittis libero. Mauris aliquet magna magna sed nunc rhoncus amet pharetra et feugiat tempus.</p>
+		<p>A **Cloud4est**-et Kutsera Róbert, a Pécsi Janus Pannonius egykori tanára vezeti, mentorálja. A csoport működéséhez szükséges infrastruktúrát a Humán Innovációs Csoport Nonprofit Kft. és a Kreatív Ipari Klaszter biztosítja. </p>
 		<ul class="actions">
 			<li><a href="generic.html" class="button next">Get Started</a></li>
 		</ul>
