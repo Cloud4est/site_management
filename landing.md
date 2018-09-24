@@ -1,7 +1,7 @@
 ---
 title: Hogyan működünk?
-description: Lorem ipsum dolor sit amet nullam consequa<br />sed veroeros. tempus
-  adipiscing nulla.
+description: "> Ha egy szobában a vezető a legokosabb ember, komoly problémái vannak.>
+  \ - Jack Welch"
 image: assets/images/pic07.jpg
 nav-menu: true
 layout: landing
