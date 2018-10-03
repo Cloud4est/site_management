@@ -1,5 +1,5 @@
 ---
-title: Hogyan működünk?
+title: Hogyan működik a Cloud4est?
 description: "> Ha egy szobában a vezető a legokosabb ember, komoly problémái vannak.>
   \ - Jack Welch"
 image: assets/images/pic07.jpg
