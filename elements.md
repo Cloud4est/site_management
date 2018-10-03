@@ -33,11 +33,8 @@ A cloud4est keretei között futó projektek a megszerzett ismeretek alkalmazás
 	</div>
 	<!-- Break -->
 	<div class="4u 12u$(medium)">
-		<h3>Miért jó a közösségi tanulás?</h3>
-		<p>Hagyományos keretek között az információ áramlását és a tanulásszervezést kívülről irányítjuk. Ez a diákokat passzivitásra készteti, hiszen a folyamatok nélküle vagy akár akarata ellenére is zajlanak. Sokan, ha valamilyen területen szeretnének elmélyülni, az egyéni tanulást választják (egyedül vagy magántanár segítségével). Tudjuk azonban mindannyian, hogy ha a környezetünkben többen is hasonló tevékenységgel foglalkoznak, akkor sokat segíthetnek egymásnak azzal, hogy ismereteket cserélnek, azokat közösen dolgozzák fel, próbálják ki. 
-Egy csoport tagjai sokféle készséggel, ismerettel rendelkeznek. Ezek részben az eddigi tanulmányokból, részben pedig személyes kísérletezésből származnak. A közösségi tanulás révén ezek az ismeretek összekapcsolódhatnak, és további tanulásra, új megoldások kidolgozására serkenthetik a csoport tagjait.  
-
-A közösségi tanulás segít abban is, hogy a csökkentse az egyénre nehezedő nyomást, mely a hirtelen és gyors sikerekkel kapcsolatos várakozásból ered.  Annak ellenére, hogy az adott probléma megoldásához fontos, hogy a csoport tagjai minél hatékonyabban alkalmazzák az általuk birtokolt ismereteket, mindenki sajátos utat járhat be egy-egy általa választott területen.
+		<h3>Együtt alkotó generációk</h3>
+		<p>Miért ne? A generációk által lakott közösségi, szakmai közegek csak ritkán érnek össze, és szinte soha nem metszik egymást. A változás kulcsa a kezünkben van. A Cloud4est nem választja el egymástól a felnőtt világ ismeret és tevékenység területeit a fiatalokétól. Lehetőség van a közös gondolkodásra, közös alkotásra. A fiatalok rendkívül gyorsan fejlődnek olyan területeken, amelyeken relevánsak piaci szempontból is. Azonban sokszor nehezen tudnak csak egy-egy folyamatot végig csinálni. Rendszeresen elakadnak, elvesznek a részletekben, vagy elveszítik az érdeklődésüket a dolog iránt. Segítsünk nekik!
 </p>
 	</div>
 	<div class="4u 12u$(medium)">
@@ -45,8 +42,8 @@ A közösségi tanulás segít abban is, hogy a csökkentse az egyénre nehezed�
 		<p>Tanulásnak elsősorban egy kívülről szabályozott, minden mozzanatában előre felépített, tankönyvekre támaszkodó ismeretszerzést szoktunk nevezni. A Cloud4est-ben erről másképp gondolkodunk. Számunkra a tanulás önfejlesztést jelent. Megoldást keresünk konkrét problémákra, és közben megkeressük és elsajátítjuk az ehhez szükséges ismereteket. Mivel a szükséges ismeretek </p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Accumsan montes viverra</h3>
-		<p>Nunc lacinia ante nunc ac lobortis. Interdum adipiscing gravida odio porttitor sem non mi integer non faucibus ornare mi ut ante amet placerat aliquet. Volutpat eu sed ante lacinia sapien lorem accumsan varius montes viverra nibh in adipiscing blandit tempus accumsan.</p>
+		<h3>Csatlakozzon szülőként!</h3>
+		<p>Kezdetben sokszor csak nehezen tudták a Cloud4est tagjai megmagyarázni szüleiknek, hogy pontosan miről is van szó. Ezért született egy szülői támogató csoport létrehozásának gondolata. Érdeklődési területtől, rendelkezésre álló szabad időtől, energiától függetlenül a szülői csoport tagjai jelentős támogatást tudnak nyújtani a fiataloknak. Már csak azzal, hogy komolyan veszik azt, amit csinálnak, és transzparens módon összekapcsolódnak a fiatalok közösségével.        </p>
 	</div>
 </div>
 
