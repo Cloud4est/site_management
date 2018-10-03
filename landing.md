@@ -45,9 +45,9 @@ layout: landing
 		<div class="content">
 			<div class="inner">
 				<header class="major">
-					<h3>IT adta lehetőségek</h3>
+					<h3>Így kommunikálunk mi </h3>
 				</header>
-				<p>A Cloud4est projektjei alapvetően informatikai eszközök fejlesztésére és hasznosítására épülnek.  </p>
+				<p>A Cloud4esthez több honlap kapcsolódik. Miért? Mert úgy gondoljuk, hogy ha meg akarjuk jeleníteni magunkat, akkor ezt tevékenységeinken keresztül tudjuk a leghitelesebben. Ha cselekszünk, alkotunk, akkor örülünk annak, ha mások is csatlakoznak hozzánk, erősítve és gazdagítva a kiinduló ideánkat. Minden projekt bizonyos ismereteket igényel, amelyek általában csak részben állnak rendelkezésünkre az elején. Ezért tanulunk. És ha valamiben épp elmélyedünk, akkor ez lehetőséget jelenthet mások számára is a tanulásra. Ezért követhetővé tesszük ezeket a folyamatokat. Lehet csatlakozni hozzájuk. Az így megszerzett ismeretekkel felvértezve pedig lehet csatlakozni a projektjeinkhez, lehet csatlakozni a közösséghez.</p>
 				<ul class="actions">
 					<li><a href="generic.html" class="button">Learn more</a></li>
 				</ul>
