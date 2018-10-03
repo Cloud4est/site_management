@@ -38,7 +38,7 @@ A cloud4est keretei között futó projektek a megszerzett ismeretek alkalmazás
 </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>Támogató szülői csoport</h3>
+		<h3>Szülői csoport</h3>
 		<p>Kezdetben sokszor csak nehezen tudták a Cloud4est tagjai megmagyarázni szüleiknek, hogy pontosan miről is van szó. Ezért született egy szülői támogató csoport létrehozásának gondolata. Érdeklődési területtől, rendelkezésre álló szabad időtől, energiától függetlenül a szülői csoport tagjai jelentős támogatást tudnak nyújtani a fiataloknak. Már csak azzal, hogy komolyan veszik azt, amit csinálnak, és transzparens módon összekapcsolódnak a fiatalok közösségével.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
