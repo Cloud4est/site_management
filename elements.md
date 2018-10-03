@@ -38,12 +38,12 @@ A cloud4est keretei között futó projektek a megszerzett ismeretek alkalmazás
 </p>
 	</div>
 	<div class="4u 12u$(medium)">
-		<h3>A nem formális tanulás előnyei</h3>
-		<p>Tanulásnak elsősorban egy kívülről szabályozott, minden mozzanatában előre felépített, tankönyvekre támaszkodó ismeretszerzést szoktunk nevezni. A Cloud4est-ben erről másképp gondolkodunk. Számunkra a tanulás önfejlesztést jelent. Megoldást keresünk konkrét problémákra, és közben megkeressük és elsajátítjuk az ehhez szükséges ismereteket. Mivel a szükséges ismeretek </p>
+		<h3>Támogató szülői csoport</h3>
+		<p>Kezdetben sokszor csak nehezen tudták a Cloud4est tagjai megmagyarázni szüleiknek, hogy pontosan miről is van szó. Ezért született egy szülői támogató csoport létrehozásának gondolata. Érdeklődési területtől, rendelkezésre álló szabad időtől, energiától függetlenül a szülői csoport tagjai jelentős támogatást tudnak nyújtani a fiataloknak. Már csak azzal, hogy komolyan veszik azt, amit csinálnak, és transzparens módon összekapcsolódnak a fiatalok közösségével.</p>
 	</div>
 	<div class="4u$ 12u$(medium)">
-		<h3>Csatlakozzon szülőként!</h3>
-		<p>Kezdetben sokszor csak nehezen tudták a Cloud4est tagjai megmagyarázni szüleiknek, hogy pontosan miről is van szó. Ezért született egy szülői támogató csoport létrehozásának gondolata. Érdeklődési területtől, rendelkezésre álló szabad időtől, energiától függetlenül a szülői csoport tagjai jelentős támogatást tudnak nyújtani a fiataloknak. Már csak azzal, hogy komolyan veszik azt, amit csinálnak, és transzparens módon összekapcsolódnak a fiatalok közösségével.        </p>
+		<h3>Támogasson minket!</h3>
+		<p>Hogyan? Saját ismereteivel, tapasztalataival, és kapcsolataival. Szülőként tagja lehet a Cloud4est közösségének, és sokféleképp megjelenítheti ezt a kapcsolatot pl. profiljain, honlapján. Megoszthatja a fiatalokkal szakmai ismereteit, tapasztalatát pl. beszélgetések, céglátogatás során.             </p>
 	</div>
 </div>
 
