@@ -43,7 +43,7 @@ A cloud4est keretei között futó projektek a megszerzett ismeretek alkalmazás
 	</div>
 	<div class="4u$ 12u$(medium)">
 		<h3>Támogasson minket!</h3>
-		<p>Hogyan? Saját ismereteivel, tapasztalataival, és kapcsolataival. Szülőként tagja lehet a Cloud4est közösségének, és sokféleképp megjelenítheti ezt a kapcsolatot pl. profiljain, honlapján. Megoszthatja a fiatalokkal szakmai ismereteit, tapasztalatát pl. beszélgetések, céglátogatás során.             </p>
+		<p>Hogyan? Saját ismereteivel, tapasztalataival, és kapcsolataival. Szülőként tagja lehet a Cloud4est közösségének, és sokféleképp megjelenítheti ezt a kapcsolatot pl. profiljain, honlapján. Megoszthatja a fiatalokkal szakmai ismereteit, tapasztalatát pl. beszélgetések, céglátogatás során. Összekapcsolhatja a fiatalokat saját szakmai partnereivel, és meghívhatja őket szakmai rendezvényekre, vásárokra.             </p>
 	</div>
 </div>
 
