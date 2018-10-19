@@ -1,7 +1,7 @@
 ---
 title: Támogatóknak
-description: 'A közösség olyan emberek csoportja, akik egyetértenek abban, hogy közösen
-  fognak növekedni. >Simon Sinek> '
+description: A közösség olyan emberek csoportja, akik egyetértenek abban, hogy közösen
+  fognak növekedni. /Simon Sinek/
 image: "/uploads/CommunityHero.png"
 nav-menu: true
 layout: post
