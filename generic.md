@@ -1,6 +1,5 @@
 ---
 title: Támogatóknak
-published: false
 description: A közösség olyan emberek csoportja, akik egyetértenek abban, hogy közösen
   fognak növekedni. /Simon Sinek/
 image: "/uploads/CommunityHero.png"
