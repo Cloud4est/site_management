@@ -1,10 +1,10 @@
 ---
-title: All posts
+title: Minden projekt
 landing-title: Projektek
-nav-menu: true
+nav-menu: false
 description: fdgfdagfdgfgfgfdgdfgdfgfdg
-image: 
-author: 
+image:
+author:
 show_tile: false
 layout: allposts
 ---

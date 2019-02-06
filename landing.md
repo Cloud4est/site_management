@@ -33,7 +33,7 @@ layout: landing
 				</header>
 				<p>Fontosnak tartjuk, hogy a közösség tagjai folyamatosan továbbképezzék magukat. Ennek tárgya lehet egy-egy technikai kérdés megoldásának keresése, új kódolási rendszer  megismerése, vagy az arculat tervezéshez felhasználható szoftverek alkalmazása. A tanulási folyamatot rendkívül felgyorsíthatja, ha a résztvevők által megszerzett ismeretelemek összekapcsolódnak, és egy konkrét kérdés, probléma megoldásában segítséget jelentenek. Ez a problémaközpontú megközelítés lehetővé teszi, hogy célirányosan és tudatosan szűrjék a rendelkezésre álló információt, és elgondolkodjanak az ismeretek konkrét hasznosításának kérdésén. Úgy gondoljuk, hogy a tudás csak adott összefüggésben és alkalmazásának módjával együtt hasznosítható.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Tudj meg többet</a></li>
 				</ul>
 			</div>
 		</div>
@@ -49,7 +49,7 @@ layout: landing
 				</header>
 				<p>A Cloud4esthez több honlap kapcsolódik. Miért? Mert úgy gondoljuk, hogy ha meg akarjuk jeleníteni magunkat, akkor ezt tevékenységeinken keresztül tudjuk a leghitelesebben. Ha cselekszünk, alkotunk, akkor örülünk annak, ha mások is csatlakoznak hozzánk, erősítve és gazdagítva a kiinduló ideánkat. Minden projekt bizonyos ismereteket igényel, amelyek általában csak részben állnak rendelkezésünkre az elején. Ezért tanulunk. És ha valamiben épp elmélyedünk, akkor ez lehetőséget jelenthet mások számára is a tanulásra. Ezért követhetővé tesszük ezeket a folyamatokat. Lehet csatlakozni hozzájuk. Az így megszerzett ismeretekkel felvértezve pedig lehet csatlakozni a projektjeinkhez, lehet csatlakozni a közösséghez.</p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Tudj meg többet</a></li>
 				</ul>
 			</div>
 		</div>
@@ -65,7 +65,7 @@ layout: landing
 				</header>
 				<p>A Cloud4est elnevezés arra utal, hogy ötleteink, elképzeléseink, és tudásunk képes összekapcsolódni egy közös felhőben, miközben a csoport egy organikus alkotási és növekedési folyamaton megy át. Miért fontos az alkotás közössége? Amikor konkrét termékben, szolgáltatásban vagy egyszerűen csak alkotásban gondolkodunk, akkor emögött sokszor az alkotót, annak egyediségét keressük. A közösségi alkotás sokféle szereplő keze nyomát viseli. Mindenki, aki összekapcsolódott a folyamattal, bele tehette azt, amit ott és akkor tudott. A közös alkotás eredménye az övék, a miénk. Nevünk, személyes profilunk össze fog kapcsolódni vele, erősítve ezzel a közös brandet, és a sajátunkat is.    </p>
 				<ul class="actions">
-					<li><a href="generic.html" class="button">Learn more</a></li>
+					<li><a href="generic.html" class="button">Tudj meg többet</a></li>
 				</ul>
 			</div>
 		</div>
