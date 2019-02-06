@@ -9,29 +9,29 @@ collections:
     title: Uploads
     output: true
 subtitle: Cloud4est
-email: youremailaddress@gmail.com
+email: nestgrouphu@gmail.com
 description: Management site of Cloud4est
-baseurl: 
+baseurl:
 url: https://management.cloud4est.com
-author: 
-street_address: 1234 Somewhere Road
-city: Nashville
-state: TN
-zip_code: 55555
-country: United States of America
-phone: "(716) 555-5555"
+author:
+street_address: 54 Szabadság utca
+city: Pécs
+state: Baranya
+zip_code: 7623
+country: Hungary
+phone: "+36 70 944 0007"
 tiles-source: pages
 tiles-count: 6
-500px_url: 
-facebook_url: 
+500px_url:
+facebook_url: https://www.facebook.com/CD4ST
 github_url: https://github.com/Cloud4est
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
-linkedin_url: 
-pinterest_url: 
-slack_url: 
-twitter_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
+linkedin_url: https://www.linkedin.com/company/cloud4est/about/
+pinterest_url:
+slack_url:
+twitter_url:
 markdown: kramdown
 sass:
   style: compressed
