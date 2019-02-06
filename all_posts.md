@@ -3,8 +3,8 @@ title: Minden projekt
 landing-title: Projektek
 nav-menu: false
 description: fdgfdagfdgfgfgfdgdfgdfgfdg
-image:
-author:
+image: 
+author: 
 show_tile: false
 layout: allposts
 ---

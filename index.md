@@ -2,8 +2,8 @@
 title: Kezdőlap
 landing-title: Management for Cloud4est
 description: fdgfdhgfhdhh
-image:
-author:
+image: 
+author: 
 show_tile: false
 layout: home
 ---
