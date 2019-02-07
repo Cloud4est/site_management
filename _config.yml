@@ -31,7 +31,7 @@ instagram_url:
 linkedin_url: https://www.linkedin.com/company/cloud4est/about/
 pinterest_url:
 slack_url:
-twitter_url:
+twitter_url: https://www.twitter.com/cd4st
 markdown: kramdown
 sass:
   style: compressed
