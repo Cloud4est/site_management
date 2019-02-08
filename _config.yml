@@ -11,9 +11,9 @@ collections:
 subtitle: Cloud4est
 email: nestgrouphu@gmail.com
 description: Management site of Cloud4est
-baseurl: 
+baseurl:
 url: https://management.cloud4est.com
-author: 
+author:
 street_address: 54 Szabadság utca
 city: Pécs
 state: Baranya
@@ -22,16 +22,16 @@ country: Hungary
 phone: "+36 70 944 0007"
 tiles-source: pages
 tiles-count: 6
-500px_url: 
+500px_url:
 facebook_url: https://www.facebook.com/CD4ST
 github_url: https://github.com/Cloud4est
-gitlab_url: 
-googleplus_url: 
-instagram_url: 
+gitlab_url:
+googleplus_url:
+instagram_url:
 linkedin_url: https://www.linkedin.com/company/cloud4est/about/
-pinterest_url: 
-slack_url: 
-twitter_url: 
+pinterest_url:
+slack_url:
+twitter_url: https://www.twitter.com/cd4st
 markdown: kramdown
 sass:
   style: compressed
