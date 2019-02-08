@@ -2,6 +2,7 @@
 title: Szülőknek
 nav-menu: true
 layout: page
+image: /uploads/achievement-family-girls-1184578.jpg
 ---
 
 <!-- Main -->
